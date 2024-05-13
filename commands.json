@@ -1,3 +1,10 @@
 {
-  "commands": ["clear G7", "clear C4", "clear A5", "clear E2", "clear H3"]
+  "commands": [
+    "clear G7",
+    "clear C4",
+    "clear A5",
+    "clear E2",
+    "clear H3",
+    "clear G5"
+  ]
 }
